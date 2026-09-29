@@ -1,3 +1,4 @@
+package javaPackagepractice;
 
 public class ReverseString {
 
